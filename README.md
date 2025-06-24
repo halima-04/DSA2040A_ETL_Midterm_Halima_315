@@ -67,10 +67,15 @@ At least 4 meaningful transformations were applied:
 🛠 Tools Used
 Tool	Purpose
 -Python 3.12	Core programming language
+
 -Jupyter Notebook	Interface for running ETL code
+
 -Pandas	Data loading and transformation
+
 -SQLite3	Lightweight database engine
+
 -Git & GitHub	Version control and online repository
+
 -VS Code / Terminal	Code editing and Git CLI usage
 
 🚀 How to Run the Project
