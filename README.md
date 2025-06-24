@@ -64,27 +64,24 @@ At least 4 meaningful transformations were applied:
   - `incremental_data.db`
 - Previewed stored tables using SQL query:
   
-```sql
-SELECT * FROM full_data LIMIT 5;
 🛠 Tools Used
 Tool	Purpose
 Python 3.12	Core programming language
-Jupyter	Notebook interface for running ETL code
-Pandas	Data loading, transformation
+Jupyter Notebook	Interface for running ETL code
+Pandas	Data loading and transformation
 SQLite3	Lightweight database engine
-Git & GitHub	Version control and online repo
-VSCode / Terminal	Code editing and Git CLI
-
-
+Git & GitHub	Version control and online repository
+VS Code / Terminal	Code editing and Git CLI usage
 
 🚀 How to Run the Project
-Clone the Repository
+📁 Clone the Repository
+bash
+Copy
+Edit
 git clone https://github.com/halima-04/DSA2040A_ETL_Midterm_Halima_315.git
 cd DSA2040A_ETL_Midterm_Halima_315
-
-Open Jupyter Notebooks
-
-Launch Jupyter and run the following notebooks in order:
+📓 Open Jupyter Notebooks
+Run the notebooks in this order:
 
 etl_extract.ipynb
 
@@ -92,23 +89,13 @@ etl_transform.ipynb
 
 etl_load.ipynb
 
-Explore Outputs
-
+🔍 Explore Outputs
 Transformed CSVs → transformed/
 
-SQLite DBs → loaded/
+SQLite DB files → loaded/
 
+Screenshots → screenshots/
 
-Check Outputs:
-
-Transformed CSVs in transformed/
-
-Database files in loaded/
-
-Screenshots in screenshots/
-
-###🖼️ Screenshots
+🖼️ Screenshots
 Extract Phase	Transform Phase	Load Phase
 
-
-  
