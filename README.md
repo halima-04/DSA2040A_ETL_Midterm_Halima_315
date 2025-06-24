@@ -13,6 +13,7 @@ The project is organized into three separate notebooks:
 
 ## 🗂️ Project Folder Structure
 ETL_Midterm_Halima_315/
+
 ├── data/
 
 │ ├── raw_data.csv
