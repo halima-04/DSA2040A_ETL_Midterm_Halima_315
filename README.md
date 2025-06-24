@@ -66,28 +66,25 @@ At least 4 meaningful transformations were applied:
   
 🛠 Tools Used
 Tool	Purpose
-Python 3.12	Core programming language
-Jupyter Notebook	Interface for running ETL code
-Pandas	Data loading and transformation
-SQLite3	Lightweight database engine
-Git & GitHub	Version control and online repository
-VS Code / Terminal	Code editing and Git CLI usage
+-Python 3.12	Core programming language
+-Jupyter Notebook	Interface for running ETL code
+-Pandas	Data loading and transformation
+-SQLite3	Lightweight database engine
+-Git & GitHub	Version control and online repository
+-VS Code / Terminal	Code editing and Git CLI usage
 
 🚀 How to Run the Project
 📁 Clone the Repository
-bash
-Copy
-Edit
 git clone https://github.com/halima-04/DSA2040A_ETL_Midterm_Halima_315.git
 cd DSA2040A_ETL_Midterm_Halima_315
 📓 Open Jupyter Notebooks
 Run the notebooks in this order:
 
-etl_extract.ipynb
+-etl_extract.ipynb
 
-etl_transform.ipynb
+-etl_transform.ipynb
 
-etl_load.ipynb
+-etl_load.ipynb
 
 🔍 Explore Outputs
 Transformed CSVs → transformed/
@@ -97,5 +94,7 @@ SQLite DB files → loaded/
 Screenshots → screenshots/
 
 🖼️ Screenshots
-Extract Phase	Transform Phase	Load Phase
+-Extract Phase
+-Transform Phase
+-Load Phase
 
