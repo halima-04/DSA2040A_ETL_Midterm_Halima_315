@@ -14,22 +14,33 @@ The project is organized into three separate notebooks:
 ## 🗂️ Project Folder Structure
 ETL_Midterm_Halima_315/
 ├── data/
+
 │ ├── raw_data.csv
+
 │ └── incremental_data.csv
+
 ├── transformed/
+
 │ ├── transformed_full.csv
 │ └── transformed_incremental.csv
+
 ├── loaded/
 │ ├── full_data.db
 │ └── incremental_data.db
+
 ├── screenshots/
 │ ├── extract_preview.png
 │ ├── transform_changes.png
 │ └── load_query.png
+
 ├── etl_extract.ipynb
+
 ├── etl_transform.ipynb
+
 ├── etl_load.ipynb
+
 ├── README.md
+
 └── .gitignore
 
 
