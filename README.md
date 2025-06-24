@@ -37,8 +37,7 @@ This project demonstrates a complete ETL (Extract, Transform, Load) process usin
 - Pandas  
 - SQLite (sqlite3)  
 - Git & GitHub  
-- (Optional) Parquet for file storage  
-- (Optional) matplotlib or seaborn for visuals
+
 
 ---
 
