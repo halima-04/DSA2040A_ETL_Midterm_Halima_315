@@ -75,10 +75,13 @@ SQLite3	Lightweight database engine
 Git & GitHub	Version control and online repo
 VSCode / Terminal	Code editing and Git CLI
 
+
+
 🚀 How to Run the Project
 Clone the Repository
 git clone https://github.com/halima-04/DSA2040A_ETL_Midterm_Halima_315.git
 cd DSA2040A_ETL_Midterm_Halima_315
+
 Open Jupyter Notebooks
 
 Launch Jupyter and run the following notebooks in order:
@@ -94,8 +97,12 @@ Explore Outputs
 Transformed CSVs → transformed/
 
 SQLite DBs → loaded/
+
+
 🖼️ Screenshots
 📊 Extract Phase	🔧 Transform Phase	🗃️ Load Phase
 
 These screenshots show sample output previews for each notebook phase.
+
+
   
