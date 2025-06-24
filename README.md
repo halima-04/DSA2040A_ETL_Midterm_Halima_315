@@ -77,6 +77,7 @@ At least 4 meaningful transformations were applied:
 | VS Code / Terminal | Code editing and Git command-line usage |
 
 🚀 How to Run the Project
+
 📁 Clone the Repository
 git clone https://github.com/halima-04/DSA2040A_ETL_Midterm_Halima_315.git
 cd DSA2040A_ETL_Midterm_Halima_315
