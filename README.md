@@ -64,19 +64,17 @@ At least 4 meaningful transformations were applied:
   - `incremental_data.db`
 - Previewed stored tables using SQL query:
   
-🛠 Tools Used
-Tool	Purpose
--Python 3.12	Core programming language
 
--Jupyter Notebook	Interface for running ETL code
+### 🛠 Tools Used
 
--Pandas	Data loading and transformation
-
--SQLite3	Lightweight database engine
-
--Git & GitHub	Version control and online repository
-
--VS Code / Terminal	Code editing and Git CLI usage
+| Tool             | Purpose                                   |
+|------------------|--------------------------------------------|
+| Python 3.12      | Core programming language                  |
+| Jupyter Notebook | Interface for writing and running ETL code |
+| Pandas           | Data loading, transformation, and analysis |
+| SQLite3          | Lightweight relational database engine     |
+| Git & GitHub     | Version control and online repository      |
+| VS Code / Terminal | Code editing and Git command-line usage |
 
 🚀 How to Run the Project
 📁 Clone the Repository
