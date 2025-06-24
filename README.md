@@ -99,10 +99,16 @@ Transformed CSVs → transformed/
 SQLite DBs → loaded/
 
 
-🖼️ Screenshots
-📊 Extract Phase	🔧 Transform Phase	🗃️ Load Phase
+Check Outputs:
 
-These screenshots show sample output previews for each notebook phase.
+Transformed CSVs in transformed/
+
+Database files in loaded/
+
+Screenshots in screenshots/
+
+###🖼️ Screenshots
+Extract Phase	Transform Phase	Load Phase
 
 
   
